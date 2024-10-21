@@ -1,6 +1,8 @@
 Personal Project: MMA Data Visualization Dashboard
 ===========================
 
+[View the Dashboard!](https://public.tableau.com/app/profile/ishraq.rahman/viz/ufc_17293677085580/Dashboard1)
+
 This project involves the development of an interactive Tableau dashboard that analyzes and visualizes UFC fight data retrieved from a Kaggle dataset and cleaned through MySQL. The dashboard provides insights into fight conclusion methods, fighter demographics, match metrics, and performance correlations.
 
 ## The dashboard consists of four key visualizations:
